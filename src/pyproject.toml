@@ -1,9 +1,0 @@
-[project]
-name = "cAI"
-version = "0.1.0"
-description = "Gemini AI for your terminal"
-readme = "README.md"
-
-[project.scripts]
-ask = "cAI.ask:ask"
-
